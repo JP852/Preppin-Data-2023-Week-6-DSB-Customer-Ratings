@@ -1,10 +1,13 @@
 # Preppin-Data-2023-Week-6-DSB-Customer-Ranking
 
-#### Link to Challenge
+![image](https://github.com/JP852/Preppin-Data-2023-Week-6-DSB-Customer-Ratings/assets/142391590/088f02cb-2951-4294-95d1-6c739b952733)
+
+
+## Link to Challenge
 
 https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html
 
-#### SQL Techniques Used
+## SQL Techniques Used
 
 - CTEs
 - Aggregation
